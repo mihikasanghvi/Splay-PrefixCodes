@@ -1,0 +1,4 @@
+Hello all, my name is Mihika and this is my DSA project. I have tried implementing splay trees for data encoding.
+I have used heap for created a tree with the help of Min Heap.
+This is the file to be encoded. Splay trees are not strictly balanced trees, but they are roughly balanced trees.
+To search any element in the splay tree, first, we will perform the standard binary search tree operation.

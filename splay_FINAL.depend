@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1655088590 source:c:\users\mihika\codeblocks\projects\splay_final\project.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"project.h"
+
+1655088609 c:\users\mihika\codeblocks\projects\splay_final\project.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1655039617 source:c:\users\mihika\codeblocks\projects\splay_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"project.h"
+	<limits.h>
+
